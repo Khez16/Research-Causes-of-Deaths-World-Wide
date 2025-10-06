@@ -6,4 +6,4 @@ The data that was used to answer this question was from Keggle posted by Madhar 
 # Access
 To access the project the user must go into gitbash or any related software. Copy the link of the project from github and create a new directory in there device. Clone the project and then open the it. The user can now run the data in proper order (top to down) and will now be able to see all the research with explinations.
 
-Aviable @: https://moez-research-causes-of-death.streamlit.app/
+Avaiable @: https://moez-research-causes-of-death.streamlit.app/
